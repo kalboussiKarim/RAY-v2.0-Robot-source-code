@@ -40,7 +40,7 @@ Pour utiliser ou modifier ce projet, vous aurez besoin de :
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/kalboussiKarim/RAY-v2.0.git
+   git clone https://github.com/kalboussiKarim/RAY-v2.0-Robot-source-code.git  
    ```
 2. **N'oubliez pas de modifier le contenu du fichier `secrets.h` avec l'adresse MAC de votre propre contrôleur PS3.**  
    Vous pouvez utiliser un outil comme **SixaxisPairTool** pour trouver l'adresse MAC de votre contrôleur.
